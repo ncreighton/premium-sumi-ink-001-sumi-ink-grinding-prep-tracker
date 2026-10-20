@@ -1,0 +1,2 @@
+# premium-sumi-ink-001-sumi-ink-grinding-prep-tracker
+Ever spend 20 minutes grinding ink only to end up with a batch that's too thin or too thick? Stop guessing and start tracking.  The Sumi Ink Grinding Prep Tracker is the first Notion template designed specifically for sumi calligraphers who want to replicate their best ink every time. It logs every variable—water volume, grind duration, ink stick u
